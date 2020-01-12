@@ -1,0 +1,239 @@
+\documentclass[a4paper]{article}
+\usepackage{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+
+% Change spacing of list items
+% https://tex.stackexchange.com/questions/6081/reduce-space-between-enumerated-items
+% https://stackoverflow.com/questions/1061112/eliminate-space-before-beginitemize
+\usepackage{enumitem}
+\setlist{nolistsep}
+
+\geometry{margin=15mm}
+
+% font
+\usepackage{helvet}
+
+% remove section numbers
+\setcounter{secnumdepth}{0}
+
+% REMOVE PARAGRAPH INDENTS
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{0.25em}
+
+% headings
+\usepackage{titlesec}
+\titlespacing{\subsection}{}{-1em}{}
+\newcommand{\jobtitle}[1]{\textbf{#1}}
+
+% tables
+\usepackage{tabularx}
+\usepackage{lipsum}
+\usepackage{array, xcolor}
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{\raggedleft}p{0.14\textwidth}}
+\newcolumntype{R}{p{0.8\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+
+% Sorts out the c of McGaw
+\makeatletter
+\newcommand{\Mc}{}
+\DeclareRobustCommand{\Mc}{%
+  M%
+  \raisebox{\dimexpr\fontcharht\font`M-\height}{%
+    \check@mathfonts\fontsize{\sf@size}{0}\selectfont
+    \underline{c}%
+  }%
+}
+
+% vars
+\newcommand{\name}{Philip \Mc Gaw}
+\newcommand{\email}{philip@mcgaw.eu}
+\newcommand{\phone}{07969 502 077}
+
+\title{\bfseries\Huge\name}
+\author{\name}
+\date{}
+
+\begin{document}
+\begin{center}
+    {\bfseries\Huge\name} \\
+    \email\hspace{1em}::\hspace{1em}\phone
+\end{center}
+
+
+
+\section{Profile}
+I am currently working as an EMC (Electro-Magnetic Compatibility) and EMF (Electro-Magnetic Frequencies) Engineer for Jaguar Land Rover. Previously I have worked in a variety of Technical IT positions. \\ \\
+I am active in the Open Source Community where I work on both hardware and software projects, feeding my changes/innovations back to the community.\\ \\
+I pursue my interests in in industrial heritage, photography, and technology in my free time.
+
+\section{Experience}
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    September 2018 - Present & \subsection{Jaguar Land Rover UK} \\
+    & \jobtitle{Automotive EMC and EMF Engineer} \\
+    &  EMC is a branch of electrical engineering concerned with the unintentional generation, propagation and reception of electromagnetic energy which may cause unwanted effects such as electromagnetic interference (EMI) or even physical damage in operational equipment. \\ \\
+    & EMF is more involved with near field interactions, while less to do with inter component interactions there are legal issues regarding human exposure levels, this includes undertaking an EMF research project to better understand the implications of BS~62211, ICNIRP and GB~37130 in relation to motor vehicles. \\ \\
+    & My role is as a project manager, providing subject specialist support for around 60 automotive components for EMC compliance and assessment.
+    \begin{itemize}
+        \item Specifying testing and standards relevant to the component, working with the JLR component managers to ensure compliance.
+        \item Reviewing test plans and test reports prepared by externally stakeholders
+        \item Reviewing test plans and test reports prepared by externally stakeholders
+        \item Perform review testing at component and whole vehicle integration level to enable comparison between versions of components
+        \item Perform Schematic, PCB and PCBA review of components to better understand test results and enable integration of modifications to enable compliance. 
+        \item Involved with the project management on the construction and setup of a new whole vehicle Conducted Immunity and Emissions facility for testing Plug in Hybrid, and Battery Electric vehicles (BS EN 61000-4 family of standards).
+        \item Health and Safety, and Risk Assessment review of facilities and procedures
+        \item Writing and maintaining test procedures to ensure regulatory compliance with internal and external standards 
+        \item Working as the subject specialist for a battery integration project being undertaken by another department.
+    \end{itemize} \\
+    & Typical EMC and EMF standards used within JLR are JLR-EMC-CS, CISPR~25 Edition 3, ICNIRP~1998 and 2010, UNECE~Regulation~10, and GB~8702~2014. \\ \\
+    & In this roll I have acquired certification and the skills required for me to write method statements, and risk assessments to allow me to perform and authorise others to work on the Hazardous voltage side of Electric Vehicles.\\ \\
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    March 2014 - August 2018 & \subsection{CASS Industries Ltd.} \\
+    & \jobtitle{EMC Test Engineer (Commercial)} \\
+    & My main duties involve managing the testing of clients' electrical and electronic products for compliance with European Directives and appropriate test standards using RF measurement techniques and electronic test equipment such as Oscilloscopes, and Spectrum Analysers. \\
+    & Other duties included:
+    \begin{itemize}
+        \item Writing test reports for both full testing and quick evaluation tests.
+        \item Daily maintenance of the test facility and constant improvement of the processes within the test laboratory.
+        \item Ensuring all equipment is calibrated including cables and test equipment.
+        \item Helping clients gain compliance by ensuring the correct standards are used during testing.
+        \item On failure to meet the requirements of EMC, offering advice on cost effective fixes, ranging from decoupling on the main board to correct track and board layout.
+        \item Development of test plans and procedures in line with manufacturing and design requirements.
+        \item Test of complex electronic equipment.
+        \item Evaluation of Technical problems in order to develop proposals for investigations and corrective actions, including process improvements.
+        \item Management and supervision of the company network, desktop computers, and servers (Microsoft Office on Windows 7 and 10).
+        \item I researched new measurement techniques, designed custom electronic instrumentation and physical test jigs in order to facilitate testing and provide a more streamlined customer service.
+    \end{itemize}\\
+    & Typical EMC standards used within the test facility would be EN~55032, EN~50130-4, and the EN~61000 series of standards. \\ \\
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    September 2006 - Present & \subsection{Squashed Fly Ltd.} \\
+    & \jobtitle{Director} \\
+    & Website design and hosting for a number of clients, including pro-bono work for charities. SquashedFly’s servers are Debian and Ubuntu Linux, managed via SSH, sites being built using WordPress as a CMS. \\ \\
+    & \subsection{Clients and Projects including:}
+    \begin{itemize}
+ %       \item \textbf{New product design - Lifting Products Ltd.}
+ %       text here
+        \item \textbf{EMC Document Review \& Consultancy - Dygma Lab S.L.}
+        Dygma Lab's commissioned me to perform an in-depth document review, and consultation on the compilation of their new keyboard the 'Dygma RAISE', this included reviewing EMC test failures and providing board-level design changes to ensure compliance.
+        \item \textbf{New website and Hosting - Freedom Press}
+        Freedom Press is the largest anarchist publishing house in the country and the oldest of its kind in the English-speaking world.
+    \end{itemize} \\
+    & \subsection{On-Site and remote engagements and contracts}
+    A number of long and short terms IT contracts covering First, Second and Third Tier support, Dev Ops and Administration roles, for companies and organisations including:
+    \begin{itemize}
+        \item P\&L Networks
+        \item McCann Erickson
+        \item Secure Borders \& Communities project for UK Boarders Agency
+        \item Allegro Networks
+        \item Foundation for Art and Creative Technology
+        \item Pennant Training Systems Ltd.
+        \item Department for Work and Pensions
+        \item Ministry of Justice
+    \end{itemize}\\
+
+    & \subsection{Experience:}
+    \begin{itemize}
+%     \item Supporting and managing more than 500 Windows 7 and Mac OS X users, in high pressure production environments.
+        \item Working within the Official Secrets Act, and International Traffic in Arms Regulations, Holding Security Vetting,
+        \item Lone and out of hours working.
+        \item Looking after the day to day running of the IT and Technical resources.
+        \item Ubuntu and Debian Linux
+        \item NGINX, Apache, PHP, MySQL, Dovecot, Postfix, and Python
+     \end{itemize} \\
+\end{tabularx}
+
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    March 2010 - September 2011 & \subsection{Culham Centre for Fusion Energy.}\\
+    & \jobtitle{Technical Clerk and Document Controller} \\
+    & Working as part of a group of scientists and engineers on components for JET \& ITER. I was actively involved in the preparation and maintenance of office records, quality plans, document reviews and reports. An attention to Detail and accuracy of all work produced was essential at all times. \\
+\end{tabularx}
+\section{Personal Projects}
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    & \subsection{Open Source PnP Machine} \\
+    & Design and construction of an inexpensive pick and place machine using only Common Off The Shelf and 3D printed parts (Custom Electronics and PCB). \\ \\
+    & The aim is to make a device that is easy and inexpensive to replicate and allows for the £2 level of PCBs from china to be populated in a home lab, The end goal is to be able to place devices down to 2012 size. \\ \\ 
+    & \subsection{ROV} \\
+    & Design and construction of a Remotely Operated Underwater Vehicle that can be operated from a Laptop or iPad allowing the operator to explore underwater.\\ \\
+    & The main parts of the body are to be 3D printed on a SLS 3D printer, from parts designed by myself in Fusion 360. \\ \\
+    & \subsection{SwarmBot} \\
+    & Design and construction of a cheap educational robot that can be used to experiment with swarm behaviour. \\ \\
+    & This includes writing software and firmware in ‘Arduino’, Python and ROS (Robot Operating System) to allow remote access to the swarm via the internet.
+\end{tabularx}
+\section{Certifications and Skills}
+\begin{tabularx}{\textwidth}{L!{\VRule}R}
+    & \subsection{Current:}
+    \begin{itemize}
+        \item Certificate of Higher Education (University of Plymouth).
+        \item Technician Member of the Institution of Engineering and Technology (TMIET).
+        \item Level One, and Level Two National School of Government Protecting Information
+        \item 17\textsuperscript{th} Edition - Level 3 Certificate in the requirements for Electrical Installations.
+        \item Queensland University of Technology - Introducing Robotics.
+        \item University of Groningen - Understanding the GDPR.
+        \item Introducing Robotics 
+        \item Jaguar Land Rover courses:
+        \begin{itemize}
+        \item Advanced Driving Course (Class Three Driving - Advanced driving qualification for Electric and prototype vehicles) 
+        \item EV (HEV) Safety Awareness
+        \item Risk Assessment Training
+        \item EV (HEV) Senior Authorised Person for Hazardous Voltages 
+        \item EV (HEV) Live working certificate
+        \item Advanced Driver Assistance Systems (ADAS) – Introduction
+        \item Automotive SPICE: Introduction
+        \item Diversity and Inclusion
+        \item Electromagnetic Compatibility (EMC): Introduction
+        \item EMC: Component Process
+        \item Engineering Basics Training
+        \item Flat Batteries and Microcontrollers
+        \item Understanding Selective Catalytic Reduction
+        \item Cyber Security Awareness
+        \item Action Counter Terrorism Awareness
+        \item FMA (Failure Mode Avoidance) - Level 1
+        \end{itemize}
+    \end{itemize} \\
+    &\subsection{Currently reading:}
+    \begin{itemize}
+        \item Moscow Institute of Physics and Technology - Building Arduino Robots and Devices.
+        \item University of Toronto:
+        \begin{itemize}
+            \item Introduction to Self-Driving Cars
+            \item Motion Planning for Self-Driving Cars
+            \item Visual Perception for Self-Driving Cars
+            \item State Estimation for Self-Driving Cars
+        \end{itemize}
+        \item Technical University of Denmark (DTU) - Wind Energy
+        \item University of Michigan - Programming for everybody (Getting started with Python)
+\end{itemize} \\    
+    &\subsection{Software:}
+    \begin{itemize}
+        \item Operating systems
+        \begin{itemize}
+            \item macOS.
+            \item Debian and Ubuntu Linux
+            \item Microsoft Windows
+        \end{itemize}
+        \item Applications
+        \begin{itemize}
+            \item Microsoft Office.
+            \item LaTeX
+            \item WordPress
+            \item Git.
+            \item Autodesk Fusion360
+            \item Autodesk Eagle
+            \item KiCAD PCB Software
+            \item LTspice Electronics Simulation Software
+        \end{itemize}
+        \item Programming and Scripting languages
+        \begin{itemize}
+            \item Arduino
+            \item Bash
+            \item ROS
+            \item Python \& Micro Python
+        \end{itemize}   
+    \end{itemize}
+\end{tabularx}
+\end{document}
