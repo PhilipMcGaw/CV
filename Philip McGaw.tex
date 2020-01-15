@@ -46,16 +46,7 @@
 \newcolumntype{R}{p{0.8\textwidth}}
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
 
-% Sorts out the c of McGaw
-\makeatletter
-\newcommand{\Mc}{}
-\DeclareRobustCommand{\Mc}{%
-  M%
-  \raisebox{\dimexpr\fontcharht\font`M-\height}{%
-    \check@mathfonts\fontsize{\sf@size}{0}\selectfont
-    \underline{c}%
-  }%
-}
+\usepackage{scottish}
 
 % vars
 \newcommand{\name}{Philip \Mc Gaw}
