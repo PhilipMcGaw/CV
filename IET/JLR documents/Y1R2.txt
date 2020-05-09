@@ -1,0 +1,161 @@
+I am going to try and work through this initialy to comply with the "Incorporated Engineer" level of the UK Engineering specification level.
+
+I have attached the apendix of the specification, and the source document for 'section E' to Y1R1. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Incorporated Engineers maintain and manage applications of current and developing technology, and may undertake engineering design, development, manufacture, construction and operation.
+
+Incorporated Engineers are able to demonstrate:
+	• The theoretical knowledge to solve problems in developed technologies using well proven analytical techniques
+	• Successful application of their knowledge to deliver engineering projects or services using established technologies and methods
+	• Responsibility for project and financial planning and management together with some responsibility for leading and developing other professional staff
+	• Effective interpersonal skills in communicating technical matters
+	• Commitment to professional engineering values.
+	
+# The Competence and Commitment Standard for Incorporated Engineers.
+
+Incorporated Engineers must be competent throughout their working life, by virtue of their education, training and experience, to:
+
+A - Use a combination of general and specialist engineering knowledge and understanding to apply existing and emerging technology.
+	A1 - Maintain and extend a sound theoretical approach to the application of technology in engineering practice. 
+	
+		This could include an ability to:
+		• Identify the limits of own personal knowledge and skills
+		• Strive to extend own technological capability 
+		• Broaden and deepen own knowledge base through new applications and techniques.
+	
+	A2 - Use a sound evidence-based approach to problem-solving and contribute to continuous improvement.
+	
+		This could include an ability to:
+		• Use market intelligence and knowledge of technological developments to promote and improve the effectiveness of engineering products, systems and services 
+		• Contribute to the evaluation and development of continuous improvement systems
+		• Apply knowledge and experience to investigate and solve problems arising during engineering tasks and implement corrective action. 
+		
+B - Apply appropriate theoretical and practical methods to design, develop, manufacture, construct, commission, operate, maintain, decommission and re-cycle engineering processes, systems, services and products.
+	
+	B1 - Identify, review and select techniques, procedures and methods to undertake engineering tasks.
+	
+		This could include an ability to: 
+		
+		• Establish users’ requirements for improvement
+		• Select a review methodology
+		• Fully exploit and implement current technology 
+		• Review the potential for enhancing engineering practices, products, processes, systems and services, using evidence from best practice
+		• Establish an action plan to implement the results of the review.
+
+	B2 - Contribute to the design and development of engineering solutions.
+	
+		This could include an ability to:
+		• Contribute to the identification and specification of design and development requirements for engineering products, processes, systems and services
+		• Identify operational risks and evaluate possible engineering solutions, taking account of cost, quality, safety, reliability, appearance, fitness for purpose, security, intellectual property (IP) constraints and opportunities, and environmental impact
+		• Collect and analyse results
+		• Carry out necessary tests.
+
+	B3 - Implement design solutions and contribute to their evaluation.
+	
+		This could include an ability to:
+		• Secure the resources required for implementation 
+		• Implement design solutions, taking account of critical constraints, including due concern for safety and sustainability
+		• Identify problems during implementation and take corrective action 
+		• Contribute to recommendations for improvement and actively learn from feedback on results.
+
+C - Provide technical and commercial management.
+
+	C1 - Plan for effective project implementation.
+	
+		This could include an ability to:
+		• Identify factors affecting the project implementation
+		• Carry out holistic and systematic risk identification, assessment and management 
+		• Prepare and agree implementation plans and method statements 
+		• Secure the necessary resources and confirm roles in project team 
+		• Apply the necessary contractual arrangements with other stakeholders (client, subcontractors, suppliers, etc).
+	
+	C2 - Manage tasks, people and resources to plan and budget. 
+	
+		This could include an ability to:
+		• Operate appropriate management systems
+		• Work to the agreed quality standards, programme and budget, within legal and statutory requirements
+		• Manage work teams, coordinating project activities 
+		• Identify variations from quality standards, programme and budgets, and take corrective action 
+		• Evaluate performance and recommend improvements.
+		
+	C3 - Manage teams and develop staff to meet changing technical and managerial needs.
+	
+		This could include an ability to:
+		• Agree objectives and work plans with teams and individuals 
+		• Identify team and individual needs, and plan for their development 
+		• Reinforce team commitment to professional standards 
+		• Manage and support team and individual development 
+		• Assess team and individual performance, and provide feedback.
+
+	C4 - Manage continuous quality improvement.
+	
+		This could include an ability to:
+		• Ensure the application of quality management principles by team members and colleagues
+		• Manage operations to maintain quality standards 
+		• Evaluate projects and make recommendations for improvement.
+
+D - Demonstrate effective interpersonal skills.		
+	
+	D1 - Communicate in English with others at all levels.
+	
+		This could include an ability to: 
+		• Contribute to, chair and record meetings and discussions
+		• Prepare communications, documents and reports on technical matters 
+		• Exchange information and provide advice to technical and non-technical colleagues.
+	
+	D2 - Present and discuss proposals.
+		
+		This could include an ability to:
+		• Prepare and deliver appropriate presentations 
+		• Manage debates with audiences 
+		• Feed the results back to improve the proposals 
+		• Contribute to the awareness of risk.
+		
+	D3 - Demonstrate personal and social skills.
+
+		This could include an ability to:
+		• Know and manage own emotions, strengths and weaknesses
+		• Be aware of the needs and concerns of others, especially where related to diversity and equality
+		• Be confident and flexible in dealing with new and changing interpersonal situations 
+		• Identify, agree and work towards collective goals 
+		• Create, maintain and enhance productive working relationships, and resolve conflicts.
+	
+E - Demonstrate a personal commitment to professional standards, recognising obligations to society, the profession and the environment.
+
+	E1 - Comply with relevant codes of conduct.
+	
+		This includes an ability to:
+		• Comply with the rules of professional conduct of own institution
+		• Manage work within all relevant legislation and regulatory frameworks, including social and employment legislation.
+		
+	E2 - Manage and apply safe systems of work.
+	
+		This could include an ability to:
+		• Identify and take responsibility for own obligations for health, safety and welfare issues 
+		• Manage systems that satisfy health, safety and welfare requirements 
+		• Develop and implement appropriate hazard identification and risk management systems and culture
+		• Manage, evaluate and improve these systems. 
+		• Apply a sound knowledge of health and safety legislation.
+		
+	E3 - Undertake engineering activities in a way that contributes to sustainable development.
+	
+		This could include an ability to:
+		• Operate and act responsibly, taking account of the need to progress environmental, social and economic outcomes simultaneously 
+		• Provide products and services which maintain and enhance the quality of the environment and community, and meet financial objectives 
+		• Understand and encourage stakeholder involvement in sustainable development 
+		• Use resources efficiently and effectively.	
+		
+	E4 - Carry out and record CPD necessary to maintain and enhance competence in own area of practice including:
+		• Undertake reviews of own development needs 
+		• Plan how to meet personal and organisational objectives 
+		• Carry out planned (and unplanned) CPD activities
+		• Maintain evidence of competence development 
+		• Evaluate CPD outcomes against any plans made 
+		• Assist others with their own CPD.
+	
+	E5 - Exercise responsibilities in an ethical manner.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
