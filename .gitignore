@@ -2,6 +2,9 @@ main.log
 main.synctex.gz
 main.aux
 
+*.pptx
+*.xlsm
+
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
