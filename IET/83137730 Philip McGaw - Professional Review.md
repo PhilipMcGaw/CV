@@ -1,27 +1,35 @@
-Professional Review Report
+# Professional Review Report
 
-Philip McGaw TMIET
+## Philip McGaw TMIET
 
-# Introduction
+### Introduction
 
 The report presents details of the applicants education, training, occupational experience, responsibilities and overall development as a professional engineer.
 The report is structured with the following sections:
- - Curriculum Vitae
+
++ Curriculum Vitae
+
 Shows a high level overview including education, training and career progression
- - Education and Training
+
++ Education and Training
 Demonstrates my competency and commitment to professional development throughout my career; Engineering qualifications and a record of relevant additional training is presented.
- - Competency Matrix Mapping
-Demonstrates my competency against Aker Specialist Engineer (Principal)
-job role
- - Summary of Occupational Experience
+ 
+ + Competency Matrix Mapping
+
+Demonstrates my competency against Aker Specialist Engineer (Principal) job role
+
+ + Summary of Occupational Experience
+
 Summarises my work history and demonstrates the breadth and depth of engineering experience and also my experience in a number of different technologies.
- - Professional Review
+
++ Professional Review
 Review of the type of work I have undertaken to demonstrate competence, application of knowledge and understanding, and levels of responsibility. This also demonstrates the breadth and depth of engineering experience and my experience in a number of different technologies.
-- Professional Affiliations and activities
-- Declaration Statement
+
++ Professional Affiliations and activities
++ Declaration Statement
 This section contains the Certification Statement for the Professional Review
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 Over my work history, I have acquired several technical skills such as advanced IT skills, Analogue Electronics with a view to RF suppression, and the use of Analogue instrumentation methods and how to correctly apply them when they are the most appropriate solution.
 
@@ -33,11 +41,11 @@ Some projects I have worked on required me to reverse engineer products without 
 
 Once the product has been reverse engineered I was responsible for developing proposals such as improving the selection of components and addition of filtering to allow the device to fulfil its operational requirements and comply with EMC (Electromagnetic Compatibility) and LVD (Low Voltage Directive) directives.
 
-This work was predominantly carried out alone and without supervision. Research included taking notes, testing and analysing product performance, and reviewing data-sheets and other technical specification documents. The use of test equipment was fundamental to this process, giving visibility on the inner workings of the circuits in the product. 
+This work was predominantly carried out alone and without supervision. Research included taking notes, testing and analysing product performance, and reviewing data-sheets and other technical specification documents. The use of test equipment was fundamental to this process, giving visibility on the inner workings of the circuits in the product.
 
 Whilst working at CASS industries, I was responsible for training my co-works in the operation of the EMC test laboratory and how to perform the tests required to certify customers equipment. This also involved making them aware of the required legislation and standards that covered different tests and classes of equipment, the Testing and Reporting workload was split between myself and the other co-workers, in the case of more technical products I would take responsibility for these due to the challenges involved with testing and reporting on them.
 
-There was a requirement to identify a situation where a Jig would improve the productivity, efficiency or simplify a process, or even allow us to offer a service that we had not got the facilities to offer before. Once the requirement was identified, I would be responsible for designing and building test jigs using both mechanical and electrical cad and using a mixture of rapid prototyping and machine shop tools; The combining of 3D printed parts, COTS (Common Off The Shelf) parts, and Electronics requires the ability to visualise how the parts will interface
+There was a requirement to identify a situation where a Jig would improve the productivity, efficiency or simplify a process, or even allow us to offer a service that we had not got the facilities to offer before. Once the requirement was identified, I would be responsible for designing and building test jigs using both mechanical and electrical cad and using a mixture of rapid prototyping and machine shop tools; The combining of 3D printed parts, COTS (Common Off The Shelf) parts, and Electronics requires the ability to visualise how the parts will interface.
 
 While working at JLR (Jaguar Land Rover) as an EMC Component Engineering, I have significantly improved my project and people management skills as I regularly communicate with both JLR employees and external stakeholders via Email, phone, and face to face. This includes meetings where I am the only person representing the EMC department of JLR and ensuring compliance with the legal requirements, and JLR engineering standards.
 
@@ -51,18 +59,79 @@ While at JLR I continued to learn new skills, taking advantage of the companies 
 
 I held the JLR permit to work safely on ‘lid off batteries’; live un-switched hazardous voltage; and de-power and lock-off electric vehicles. I also have received training on how to perform formal and informal risk assessments, I can also authorise other staff to work on vehicles I have de-powered.
 
-I have recently taken up a position as the EMC Engineer with an automotive startup called ARRIVAL, where carrying on from the experience gained at JLR, and CASS I hold the position as the EMC Engineer responsible for electrical component validation, My initial tasks are to write several internal compliance standards covering EMC, and EMF.
+I have recently taken up a position as the EMC Engineer with an automotive startup called ARRIVAL, where carrying on from the experience gained at JLR, and CASS I hold the position as the EMC Engineer responsible for electrical component validation.
 
-Outside work I have several interests, such as industrial heritage, robotics, rapid prototyping, and photography. Some of my personal projects include: 
+My task was to arange the auothoring of several internal compliance standards covering EMC, EMF, and Testing.
 
+Following on from that work I am specifing the test laboritory, 
+
+Outside work I have several interests, such as industrial heritage, robotics, rapid prototyping, and photography. Some of my personal projects include:
+
+### Pick and Place machine
 The Design and construction of an inexpensive PnP (pick and place) machine using common off the shelf aluminium extrusions profiles and parts of the body and mechanism are to be printed on an FDM (Fused Deposition Modelling) 3D printer. The 3D printed parts are designed by me in Fusion 360, while the PCBs are designed using KiCAD, and hand-assembled.
 
 The aim is to make a device that is easy and inexpensive to replicate and allows for the £2 level of PCBs from china to be populated in a home workshop. The objective of this project is to be able to reliably and repeatably place devices down to 0603 size. 
 
+### ROV
 The Design and construction of an ROV (Remotely Operated Underwater Vehicle) that can be operated from a Laptop or iPad allowing the operator to explore underwater.
 
 The main parts of the body are 3D printed on an FDM 3D printer. Parts of the pressure vessel are machined on a Laser Cutter, some of the smaller parts are printed using a DLP (Digital Light Processing) 3D printer.
 
-Designing and development of a cheap educational robot platform that can be used to experiment with swarm behaviours, ML (Machine Learning) and AI (Artificial Intelligence)
+### Swarmbot
+
+Designing and development of a cheap educational robot platform that can be used to experiment with swarm behaviours, ML (Machine Learning) and AI (Artificial Intelligence).
 
 This includes writing software and firmware in 'Arduino', Python and ROS (Robot Operating System).
+
+## Education and Training
+
+| Module Code   | Module Title 		 | Assignment / Exam Title | Exam / Handin Date | Mark %       | Grade |
+| ------------- | ------------- 	 | -------------           | -------------      |------------- | ------------- |
+| **Electrical Engineering**       | |Certificate of Higher Education (Level 4). | 2006	| | |
+| BUS140		| Business Studies A | Coursework									| | 67%	|		|
+|				|				     | Examination									| | 33%	| |
+| COMM122		| Telecomunication System Principles | Coursework					| | 63%	| |
+|				|					| Examination 									| | 65%	| |
+| COMP111		| Computer Systems and Software 	| Coursework 					| | 74%	| |
+| COMP112		| Internet IT and Multimedia Technonolies | Coursework				| | 73%	| |
+| ECAL107		| Electrical Principles 1 | Coursework 								| | 83%	| |
+| ECAL115 		| Instumentation and Measurment | Coursework						| | 55%	| |
+| ELEC113		| Analogue Electronics | Coursework									| | 63%	| |
+|				|						| Examination								| | 53%	| |
+| ELEC114		| Digital Electronics	| Coursework								| | 58%	| |
+| CNET227		| Optical Systems and Computer Networks | Coursework				| | 65%	| |
+|				|						| Examination								| | 47%	| |
+| Soft228		| Introduction to Java	| Coursework								| | 51%	| |	
+| **CPD**	| | | | | |
+|				| Track Support Systems and Rail Anchorages	| | | | |
+|				| Scott Willson Bentley Microstation Training | | | | |
+|				| 17th Edition - Level 3 Certificate in the requirements for Electrical Installations. | | 2010  | | |
+| **JLR Training Courses (CPD)**		| | | | | |
+| | Automotive SPICE: Introduction	| |	5 September 2018		| | |
+| | EMC: Component Process	| |		5 September 2018			| | |
+| | Flat Batteries and Microcontrollers	| |		5 September 2018			| | |
+| | Diversity and Inclusion		| |	11 September 2018			| | |
+| | Engineering Basics Training	| |		11 September 2018			| | |
+| | EV (HEV) Safety Awareness	| |		17 September 2018			| | |
+| | Understanding Selective Catalytic Reduction	| | 17 September 2018		| | |	
+| | Failure Mode Avoidance (FMA) - Level 1	| | 17 September 2018			| | |
+| | EV (HEV) Safety Awareness - HEV003	| | 27 September 2018			| | |
+| | EMC: Introduction	| | 3 October 2018			| | |
+| | ADAS (Advanced Driver Assistance Systems) – Introduction| | 26 October 2018			| | |
+| | Cyber Security Awareness	| | 17 April 2019			| | |
+| | Advanced Driving Course (Class 3)	| | 23 May 2019	| |	Grade 1 Pass		|
+| | EV (HEV) Senior Authorised Person	| | 10 September 2019			| | |
+| | Action Counter Terrorism Awareness	| |18 September 2019		| | |	
+| | EV (HEV) Live Working	| | 5 December 2019			| | |
+| **Conferences** | | | | | |
+| | Electromagnetic Field 2014		| | | 29 - 31 August 2014		| | | 
+| | Electromagnetic Field 2016		| | | 05 - 07 August 2016		| | | 
+| | Electromagnetic Field 2018	| | | 	31 August - 02 September 2018	| | | 	
+| | Demystifying EMC	| | | 	10 Febuary 2020		| | | 
+
+## Competency Matrix Mapping
+## Summary of Occupational Experience
+## Professional Review
+
+## Professional Affiliations and activities
+## Declaration Statement
