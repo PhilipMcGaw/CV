@@ -274,7 +274,7 @@
 
     <footer id="myFooter" style="display:none">
         <div class="container footer-container">
-            <p>Copyright Philip McGaw <script> document.write(new Date().getFullYear()); </script>. All rights reserved. </p>
+            <p>Copyright Philip McGaw <?php echo date("Y"); ?>. All rights reserved. </p>
         </div>
     </footer>
 
