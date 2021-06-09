@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 	<head>
-
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,8 +29,6 @@
     <link rel="stylesheet" type="text/css" href="slick/slick-theme.css" />
     <link rel="stylesheet" href="https://use.typekit.net/dkg6njd.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-
-
 </head>
 
 <body id="page-top">
@@ -63,7 +60,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-default" style="display:none;" id="myNav">
         <div class="container" style="margin-top: 20px; padding:0px">
-            <!-- Brand and toggle get grouped for better mobile display -->
+
             <div class="navbar-header page-scroll">
                 <div class="row">
                     <div style="z-index: 1000;">
@@ -75,9 +72,9 @@
                         </button>
                     </div>
                     <h2 style="font-size:60px; margin-top:0px">Philip McGaw</h2>
-<!--                    <p>This website is a work in progress... please excuse any rough edges!</p>-->
                 </div>
             </div>
+
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right" style="    font-family: 'Source Sans Pro', sans-serif;font-weight: 500;text-transform: uppercase;">
@@ -90,10 +87,10 @@
                     </li>
                     <li>
                         <a href="BENCOBLEYCV.pdf" target="_blank" style="text-decoration: none">CV</a>
-                        <!--                            class="page-scroll" -->
+                        <!--class="page-scroll" -->
                     </li>
                     <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/philipmcgaw/" style="text-decoration: none">LinkedIn</a>
+                        <a target="_blank" href="//www.linkedin.com/in/philipmcgaw/" style="text-decoration: none">LinkedIn</a>
                     </li>
                 </ul>
             </div>
@@ -746,14 +743,10 @@
                             <h3 style="color: #ffffff; margin-top: 0">What if we <span style="font-style: italic">reuse</span> (instead of recycle) cardboard? </h3>
                             <p style="color:#ffffff">Cardboard is complicit in a global culture of over-consumption and disposal. Over 4 million tonnes are disposed of annually in the UK; while widely recycled, each cycle wastes energy that could be saved through reuse.</p>
                             <p style="color:#ffffff">How do we tackle the perception that used cardboard is worthless? Stackpack provokes users to consider the sustainability of their cardboard consuming lifestyle.</p>
-
                             <p style="color:#ffffff; ">Stackpack presents a challenge to today's packaging habits:</p>
                             <ul style="margin-bottom: 70px; font-style: italic; color:#ffffff;"><li>Reuses without reprocessing</li>
                             <li>Protects without plastic pockets</li>
                             <li>Lighter and smaller than equivalent packaging</li></ul>
-
-
-<!--                            <p style="color:#ffffff; font-weight: 600; font-size: 18px; text-align: center; font-style: italic; padding-bottom: 40px">Stackpack reuses cardboard without reprocessing, protects without plastic pockets, and is lighter than equivalent packaging.</p><br><br>-->
                         </div>
 
                         <div class="col-md-4">
