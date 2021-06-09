@@ -57,12 +57,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <!--<a class="page-scroll" href="#about">About</a>-->
                         <a href="#" data-toggle="modal" data-target="#About" style="text-decoration: none">About</a>
                     </li>
                     <li>
-                        <a href="BENCOBLEYCV.pdf" target="_blank" style="text-decoration: none">CV</a>
-                        <!--class="page-scroll" -->
+                        <a href="philipmcgaw.pdf" target="_blank" style="text-decoration: none">CV</a>
                     </li>
                     <li>
                         <a target="_blank" href="//www.linkedin.com/in/philipmcgaw/" style="text-decoration: none">LinkedIn</a>
@@ -71,7 +69,6 @@
             </div>
 
             <div id="myBtnContainer" class="myBtnContainer" style="margin-top: 40px; margin-left: 1px">
-                <!--<p style="margin-bottom: 5px">FILTER:</p>-->
                 <button class="btn active" onclick="filterSelection('all')">Show all</button>
                 <button class="btn" onclick="filterSelection('Industry')">Industry</button>
                 <button class="btn" onclick="filterSelection('Mechatronic')">Mechatronic</button>
@@ -81,15 +78,15 @@
                 <button class="btn" onclick="filterSelection('CAD')">CAD</button>
                 <button class="btn" onclick="filterSelection('Web')">Web Dev</button>
                 <button class="btn" onclick="filterSelection('Product')">Product</button>
-                <!-- <button class="btn" onclick="filterSelection('Systemdesign')">System Design</button> -->
                 <button class="btn" onclick="filterSelection('Mechanical')">Mechanical</button>
             </div>
         </div>
     </nav>
 
     <div id="loader">
-        <h2 style="font-size: 64px; padding: 0; margin: 0; padding-bottom: 0px;">B</h2>
+        <h2 style="font-size: 64px; padding: 0; margin: 0; padding-bottom: 0px;">PM</h2>
     </div>
+
     <section id="portfolio">
         <div class="container container-content" style="display:none;" id="myDiv">
             <div class="row row-0-gutter">
