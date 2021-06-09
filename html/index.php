@@ -32,31 +32,6 @@
 </head>
 
 <body id="page-top">
-<!--
-    <div class="container" style="margin-left: 40px">
-        <div class="row">
-            <div class="col-md-8"><h2 style="font-size:48px; margin-top:0px">BEN COBLEY</h2></div>
-            <div class="col-md-4">
-
-                <ul style="font-family: 'Source Sans Pro', sans-serif;font-weight: 500;text-transform: uppercase;">
-                    <li>
-                        <a href="#" data-toggle="modal" data-target="#About" style="text-decoration: none">About</a>
-                    </li>
-                    <li>
-                        <a href="BENCOBLEYCV.pdf" target="_blank" style="text-decoration: none">CV</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/philipmcgaw/" style="text-decoration: none">LinkedIn</a>
-                    </li>
-                </ul>
-
-            </div>
-    </div>
-
-
-    </div>
--->
-
     <!-- Navigation -->
     <nav class="navbar navbar-default" style="display:none;" id="myNav">
         <div class="container" style="margin-top: 20px; padding:0px">
