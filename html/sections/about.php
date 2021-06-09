@@ -7,7 +7,7 @@
                 <h4 class="modal-title" id="Modal-label-0">About</h4>
             </div>
             <div class="modal-body">
-                <img src="img/me.png" style="width: 200px; height: auto;" />
+                <img src="img/philipmcgaw.png" style="width: 200px; height: auto;" />
                 <h2 class="rotator">Hi, I'm Philip</h2>
 
                 <h3 class="rotator">I am a<span class="rotate">&nbsp;geek_,n&nbsp;engineer_,&nbsp;maker_</span></h3>
