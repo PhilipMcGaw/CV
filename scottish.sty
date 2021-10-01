@@ -1,0 +1,9 @@
+\makeatletter
+\newcommand{\Mc}{}
+\DeclareRobustCommand{\Mc}{%
+  M%
+  \raisebox{\dimexpr\fontcharht\font`M-\height}{%
+    \check@mathfonts\fontsize{\sf@size}{0}\selectfont
+    \underline{c}%
+  }%
+}
