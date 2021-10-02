@@ -8,7 +8,7 @@
 \documentclass[10pt,a4paper]{article}
 
 % Set the page margins.
-\usepackage[a4paper,margin=20mm]{geometry}
+\usepackage[a4paper,margin=18mm]{geometry}
 
 % Setup the language.
 \usepackage[english]{babel}
@@ -17,10 +17,30 @@
 % Makes resume-specific commands available.
 \usepackage{packages/resume}
 
+% This code block makes it possible to process each line as #1 by defining \doline#1{#1}
+
+% Is there a way to resize // // to \vspace{0.5em}?
+
+\newenvironment{dolines}
+	{\begingroup\obeylines\getlines}%
+  	{\endgroup}
+
+\def\marker
+	{\end{dolines}}
+	{\obeylines
+
+\gdef\getlines#1
+	{\def\text{#1}%
+  		\ifx\text\marker \let\next\text
+    	\else
+    	\doline{#1}\let\next\getlines \fi
+  	\next}}
+\def\doline#1{#1\par}
+
 % Makes Scottish lastname commands available.
 \usepackage{packages/scottish}
 
-% Is there a way to resize // // to \vspace{0.5em}?
+
 
 \begin{document}  % begin the content of the document
 \sloppy  % this to relax whitespacing in favour of straight margins
