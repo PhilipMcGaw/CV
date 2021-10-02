@@ -30,12 +30,7 @@
 % This project is currently hosted at: https://github.com/cies/resume
 %
 
-
-
-
 %%% LOAD AND SETUP PACKAGES
-
-
 
 % To finetune lists with a inline heading and indented content.
 % See the Experiences section in the example.
@@ -89,7 +84,6 @@
   \usepackage[protrusion]{microtype}
 
 \else
-
   % this case we likely use the `pdftex` back-end
   % therefor we lack:
   %  * lower case numbers,
@@ -98,18 +92,13 @@
   % We do make use of the possibility to use `microtype`
   \usepackage{tgpagella}
   \usepackage[expansion,protrusion]{microtype}
-
 \fi
-
-
 
 %%% DOCUMENT WIDE STYLING
 
 \pagestyle{empty}
 \setlength{\tabcolsep}{0em}
 \xspaceskip7pt  % some more spacing between sentences (use "i.e.\ " or "with SQL\@. " in case of errors)
-
-
 
 %%% CUSTOM COMMANDS
 
@@ -168,10 +157,7 @@
 % non space that allows line breaks
 \newcommand*{\nsp}{\hskip0pt}
 
-
-
 %%% MORE SPECIFIC COMMANDS
 
 % CPP command (found it in some corner of the internet and decided to use it)
 \newcommand{\CPP}{C\nolinebreak[4]\hspace{-.04em}\raisebox{.20ex}{\footnotesize\bf++}}
-
